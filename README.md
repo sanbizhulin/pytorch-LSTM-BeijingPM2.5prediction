@@ -1,5 +1,5 @@
 # pytorch-LSTM-BeijingPM2.5prediction
-Thanks for others result, I comment and summary from other result and run their demos in order to standard LSTM of Pytorch
+Thanks for others result, I comment and summary from other result and run their demos in order to understand LSTM of Pytorch
 
 代码用的是pytorch框架，在我本机上跑通了，我用的环境是
 Anaconda3
